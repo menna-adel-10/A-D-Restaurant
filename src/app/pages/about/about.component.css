@@ -1,0 +1,9 @@
+.highlight {
+  color: var(--primary-color);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.highlight:hover {
+  color: var(--grad-color);
+}

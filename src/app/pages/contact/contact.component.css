@@ -1,0 +1,6 @@
+button:hover {
+   background-color: var(--primary-color);
+  border: none;
+  transform: scale(1.12);
+  transition: all .5s ease-in-out;
+}
